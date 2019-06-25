@@ -48,8 +48,8 @@ const Navbar = ({ auth: { isAuthenticated, loading }, logout }) => {
       <h1>
         <Link to="/">
           {' '}
-          <i className="fas fa-code" />
-          Devconnector{' '}
+          <i className="fab fa-asymmetrik" /> conne
+          <span className="colorized">X</span>ion{' '}
         </Link>
       </h1>
       {!loading && (

@@ -1,2 +1,4 @@
 node_modules/
 bin.txt
+custom-env-variable.json
+config/default.json
